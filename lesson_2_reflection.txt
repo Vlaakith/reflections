@@ -1,7 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
+Создается файл .git и гит готовится к добавлению файлов в репу. Потому что автоматом ничего не создается.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Авансцена - это сборище файлов, которые уйдут в репозиторий, но еще не там. 
+Это могут быть не все файлы директории. Или можно их отправить пачками, по темам.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
