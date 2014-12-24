@@ -29,3 +29,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Хорошо, когда он сам мержит, потому что не занимает время. Плохо - мы не 
+видим, что он там замержил. Без автомата - наоборот.
