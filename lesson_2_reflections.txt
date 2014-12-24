@@ -23,6 +23,9 @@ git log --graph --oneline master easy-mode
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+При объединении веток обязательно учитывается состояние их общего предка. На
+основании этого делается решение об объединении изменений, добавлении или
+удалении строк.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
