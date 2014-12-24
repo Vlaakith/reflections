@@ -17,6 +17,9 @@ organized? How would branches help?
 на одном месте.
 
 How do the diagrams help you visualize the branch structure?
+Критически. Критически помогут. Правда, визуализироваться может только две ветки
+вместе. Команда такая:
+git log --graph --oneline master easy-mode
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
