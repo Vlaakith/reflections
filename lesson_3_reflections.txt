@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 Когда мне нужно передать инфу на другой комп самой себе. Или другим каким-то старнным людям.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Иногда что-то хочется попробовать для себя - до того, как выкладывать в паблик. И уж тем более в релизный Мастер бранч.
