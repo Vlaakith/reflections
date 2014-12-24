@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Когда мне нужно передать инфу на другой комп самой себе. Или другим каким-то старнным людям.
